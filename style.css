@@ -1,0 +1,110 @@
+body{
+    background-color: #fff;
+    text-emphasis-color: #fff;
+}
+.logo{
+    position: relative;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 100%;
+    width: 70px;
+    height: 70px;
+}
+.size-contain{
+    font-family: ubuntu;
+}
+.size-head-conatin{
+    font-family: "Monstserrat-bold";
+}
+.size-head{
+    font-family: "Monstserrat-bold";
+    color:#fff;
+}
+/* Header colour */
+#header-color
+{
+    background-color: #1dad9b;
+    height: 25vh;
+    position: absolute;
+    right: 0px;
+    left: 0px;
+    width: 100%;
+}
+
+.profile{
+    position: absolute;
+    top:0;
+    right: 0;
+    border-radius: 100%;
+    width: 70px;
+    height: 70px;
+    margin-top: 4px;
+}
+.navbar-css{
+    position: absolute;
+
+}
+
+.login{
+    position: absolute;
+    top:100px;
+    right:0;
+    margin-right: 10px;
+    margin-bottom: 13px;
+}
+.signup{
+    position: absolute;
+    top:100px;
+    right:0px;
+    margin-right: 100px;
+}
+
+/* Main Contant */
+#main-contant{
+    
+    top: 35%;
+    text-align: center;
+    justify-content: center;
+    padding: 7% 12%;
+}
+.wel-text{
+    text-align: right;
+    padding: 7%;
+}
+.about-video{
+    align-items: end;
+}
+
+/* Information about Pages */
+#info-features{
+    background-color:#1dad9b;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    margin-top: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 7% 15%;
+}
+.head-toggle{
+    text-align:center;
+    color:indigo;
+}
+.pos-fea-head{
+    text-align: center;
+}
+.pos-fea-content{
+    position: relative;
+}
+.pos-fea-btn{
+    position: relative;
+    margin-left: 400px;
+}
+.fea-logo{
+    position:relative;
+    margin-left: 480px;
+    margin-bottom: 30px;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
